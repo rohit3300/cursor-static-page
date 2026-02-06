@@ -413,3 +413,7 @@ ul {
   gap: 0.5rem;
   padding-top: 0.5rem;
 }
+
+.footer-col-items a {
+  text-decoration: none;
+}
