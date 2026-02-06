@@ -11,6 +11,6 @@ This project consists of two main files:
 
 ## Live Demo
 
-Visit the hosted website: 
+Visit the hosted website: https://rohit3300.github.io/cursor-static-page/
 
 ![Cursor Homepage Clone Screenshot](./assets/screenshot.png)
